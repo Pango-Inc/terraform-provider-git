@@ -1,6 +1,6 @@
-module github.com/innovationnorway/terraform-provider-git
+module github.com/Pango-Inc/terraform-provider-git
 
-go 1.14
+go 1.16
 
 require (
 	github.com/go-git/go-billy/v5 v5.0.0
